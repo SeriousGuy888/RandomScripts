@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "faker": "^5.5.3",
+    "node-fetch": "^3.0.0"
+  },
+  "name": "spam-scam-page-with-fake-credentials",
+  "version": "1.0.0",
+  "main": "spammer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
