@@ -42,7 +42,7 @@ const sendReq = async () => {
   })
 
   console.log(`---\n${username} : ${password}\n${userAgent}\n${referrer}`)
-  // console.log(await res.text())
+  console.log(await res.json())
 }
 
 setInterval(sendReq, 500)
